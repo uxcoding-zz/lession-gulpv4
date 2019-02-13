@@ -1,0 +1,43 @@
+/* ----------------------------------------------------------------------------------------------
+uxcoding:
+---------------------------------------------------------------------------------------------- */
+body{margin: 0; padding: 0; width: 100%; font-size: 1.5rem; line-height: 2.5rem; font-weight: normal; color: #463177; background-color: #ffffff; font-family: 'ralewayregular',sans-serif;}
+
+/* ----------------------------------------------------------------------------------------------
+wrapper : css 
+---------------------------------------------------------------------------------------------- */
+.wrapper{margin: 0; padding: 0; width: 100%; height: 100%; display: block; position: relative;}
+
+/* ----------------------------------------------------------------------------------------------
+header-Box : css
+---------------------------------------------------------------------------------------------- */
+.header-Box{margin: 0; padding: 0; width: 100%;}
+.header-Bar{margin: 0; padding: 0;}
+.header-Bar .header-left{margin: 0; padding: 0;}
+.header-Bar .header-right{margin: 0; padding: 0;}
+
+/* ----------------------------------------------------------------------------------------------
+nav-Box : css
+---------------------------------------------------------------------------------------------- */
+.nav-Box{margin: 0; padding: 0; width: 100%;}
+.nav-Bar{margin: 0; padding: 0;}
+.nav-Bar .nav-left{margin: 0; padding: 0;}
+.nav-Bar .nav-right{margin: 0; padding: 0;}
+
+/* ----------------------------------------------------------------------------------------------
+main-wrapper : css
+---------------------------------------------------------------------------------------------- */
+.main-wrapper{margin: 0; padding: 0; width: 100%; position: relative;}
+
+.content-Box{margin: 0; padding: 0; width: 100%;}
+.content-Bar{margin: 0; padding: 0;}
+.content-Bar .content-left{margin: 0; padding: 0;}
+.content-Bar .content-right{margin: 0; padding: 0;}
+
+/* ----------------------------------------------------------------------------------------------
+footer-Box : css
+---------------------------------------------------------------------------------------------- */
+.footer-Box{margin: 0; padding: 0; width: 100%;}
+.footer-Bar{margin: 0; padding: 0;}
+.footer-Bar .footer-left{margin: 0; padding: 0;}
+.footer-Bar .footer-right{margin: 0; padding: 0;}
